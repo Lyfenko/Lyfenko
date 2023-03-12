@@ -1,5 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+👋.+I+am+Lyfenko+Dmytro)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=League+Gothic&weight=300&size=25&pause=1000&color=711F95&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=Hello+%F0%9F%91%8B+I+am+Lyfenko+Dmytro" alt="Typing SVG" /></a>
 
 
 <!--
