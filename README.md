@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+👋.+I+am+Lyfenko+Dmytro)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+👋.+I+am+Lyfenko+Dmytro)
 
 
 
